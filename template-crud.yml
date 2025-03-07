@@ -1,6 +1,4 @@
 spring:
-  application:
-    name: temp
   datasource:
     url: jdbc:postgresql://localhost:5530/pruebadb
     username: user
